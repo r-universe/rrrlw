@@ -1,5 +1,9 @@
 [
   {
+    "package": "dragonking",
+    "oncran": true
+  },
+  {
     "package": "fitscape",
     "oncran": true
   },

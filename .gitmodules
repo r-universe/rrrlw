@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dragonking"]
+	path = dragonking
+	url = https://github.com/rrrlw/dragonking
+	shallow = true
+	registered = true
 [submodule "fitscape"]
 	path = fitscape
 	url = https://github.com/rrrlw/fitscape
