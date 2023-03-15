@@ -3,21 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "TDAstats"]
-	path = TDAstats
-	url = https://github.com/rrrlw/tdastats
-	shallow = true
-	registered = true
-[submodule "helixvis"]
-	path = helixvis
-	url = https://github.com/rrrlw/helixvis
-	shallow = true
-	registered = true
-[submodule "healthfinance"]
-	path = healthfinance
-	url = https://github.com/rrrlw/healthfinance
-	shallow = true
-	registered = true
 [submodule "dragonking"]
 	path = dragonking
 	url = https://github.com/rrrlw/dragonking
@@ -28,8 +13,23 @@
 	url = https://github.com/rrrlw/fitscape
 	shallow = true
 	registered = true
+[submodule "healthfinance"]
+	path = healthfinance
+	url = https://github.com/rrrlw/healthfinance
+	shallow = true
+	registered = true
+[submodule "helixvis"]
+	path = helixvis
+	url = https://github.com/rrrlw/helixvis
+	shallow = true
+	registered = true
 [submodule "ripserr"]
 	path = ripserr
 	url = https://github.com/rrrlw/ripserr
+	shallow = true
+	registered = true
+[submodule "TDAstats"]
+	path = TDAstats
+	url = https://github.com/rrrlw/tdastats
 	shallow = true
 	registered = true

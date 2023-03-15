@@ -1,17 +1,5 @@
 [
   {
-    "package": "TDAstats",
-    "oncran": true
-  },
-  {
-    "package": "helixvis",
-    "oncran": true
-  },
-  {
-    "package": "healthfinance",
-    "oncran": true
-  },
-  {
     "package": "dragonking",
     "oncran": true
   },
@@ -20,7 +8,19 @@
     "oncran": true
   },
   {
+    "package": "healthfinance",
+    "oncran": true
+  },
+  {
+    "package": "helixvis",
+    "oncran": true
+  },
+  {
     "package": "ripserr",
+    "oncran": true
+  },
+  {
+    "package": "TDAstats",
     "oncran": true
   }
 ]
