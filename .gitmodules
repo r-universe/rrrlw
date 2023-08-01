@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "TDAstats"]
+	path = TDAstats
+	url = https://github.com/rrrlw/tdastats
 [submodule "dragonking"]
 	path = dragonking
 	url = https://github.com/rrrlw/dragonking
@@ -17,6 +20,3 @@
 [submodule "ripserr"]
 	path = ripserr
 	url = https://github.com/rrrlw/ripserr
-[submodule "TDAstats"]
-	path = TDAstats
-	url = https://github.com/rrrlw/tdastats
