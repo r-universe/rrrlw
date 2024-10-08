@@ -17,6 +17,3 @@
 [submodule "helixvis"]
 	path = helixvis
 	url = https://github.com/rrrlw/helixvis
-[submodule "ripserr"]
-	path = ripserr
-	url = https://github.com/rrrlw/ripserr
